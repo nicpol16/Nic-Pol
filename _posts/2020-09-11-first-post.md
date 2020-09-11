@@ -2,7 +2,7 @@
 layout: post
 title: Welcome to my Blog!
 ---
-Nic
+
 # An Introduction 
 ## Hello, My name is Nic...
 ![Profile Pic](https://nicpol16.github.io/Nic-Pol/images/profile.jpg)
