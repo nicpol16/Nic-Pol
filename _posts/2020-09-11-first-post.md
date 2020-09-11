@@ -22,3 +22,11 @@ A couple of Roots & Shoots projects includes:
 
 Also, Roots & Shoots has something to offer for every major. For me, personally, I am a Political Science major, but I still have found ways to connect the organization to my major's academic interests. For anyone else interested in Roots & Shoots, you can always e-mail at rootsandshoots@cnu.edu
 
+Other than Roots & Shoots, I have been involved in the following organizations:
+* Asian Student Union (I am a quarter Chinese, and when I was a child I could speak some Cantonese!)
+* Tennis Club 
+* Food Fighters - A wonderful organization that donates CNU's food to the Peninsula Food Bank in Hampton, VA
+* The Student Sustainability Commission - A branch of Student Assembly that focuses on sustainability efforts
+* CNU's Doctors without Borders - Focuses on providing aid to local refugees in the Hampton Roads region of VA
+
+In my personal life, I am a very devoted older brother. 
