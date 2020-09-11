@@ -12,7 +12,7 @@ From the start of college, I knew that I wanted to get involved with environment
 
 While at CNU, I have been working as the co-president of [Roots & Shoots](https://cnu.campuslabs.com/engage/organization/rootsandshoots), an environmental organization based on volunteerism and stewardship. Roots & Shoots has exponentially enriched my life, as I have been able to work with local government, local businesses, and school districts. 
 
-![Roots and Shoots](https://nicpol16.github.io/Nic-Pol/images/Roots and Shoots.JPG)
+![Roots and Shoots](https://nicpol16.github.io/Nic-Pol/images/Roots-and-Shoots.JPG)
 
 A couple of Roots & Shoots projects includes:
 * Building a [Bee-Byway](http://www.beebyway.com) for the Hampton Roads Peninsula
