@@ -8,7 +8,7 @@ Nic
 ![Profile Pic](https://nicpol16.github.io/Nic-Pol/images/profile.jpg)
 ...And I am currently a senior at [Christopher Newport University](https://cnu.edu). While I am sad to be graduating within the coming months, I can confidently say that I am proud of what I have done with my academic career. 
 
-From the start of college, I knew that I wanted to get involved with environmental policy. What excites me about that industry is that the environmental world is so **new**. Think of environmental policy as the wild west of the modern age, but instead of coyboys and banditos, we have lobbyists and auditors. 
+From the start of college, I knew that I wanted to get involved with environmental policy. What excites me about that industry is that the environmental world is so **new**. Think of environmental policy as the wild west of the modern age, but instead of cowboys and banditos, we have lobbyists and auditors. 
 
 While at CNU, I have been working as the co-president of [Roots & Shoots](https://cnu.campuslabs.com/engage/organization/rootsandshoots), an environmental organization based on volunteerism and stewardship. Roots & Shoots has exponentially enriched my life, as I have been able to work with local government, local businesses, and school districts. 
 
@@ -35,6 +35,6 @@ Other than Roots & Shoots, I have been involved in the following organizations:
 
 My sister sitting next to me in the photograph, Grace, also has high-functioning Autism. Watching Grace grow up has been a very bittersweet experience for me. While I am happy to see her develop her own unique personality, I have often been saddened by the stigma that still surrounds Autism. 
 
-My sister does not move through life like most children do, and because of that her classmates have often classified her as "strange" or "wierd." When I am home, I spend most of my freetime volunteering at her school to help her feel comfortable in her school's environment as well as to help her communicate with her classmates during lunch and recess. 
+My sister does not move through life like most children do, and because of that her classmates have often classified her as "strange" or "weird." When I am home, I spend most of my freetime volunteering at her school to help her feel comfortable in her school's environment as well as to help her communicate with her classmates during lunch and recess. 
 
 To learn more about Autism, and how to break the stigma, feel free to [visit this link!](https://www.autismspeaks.org)
