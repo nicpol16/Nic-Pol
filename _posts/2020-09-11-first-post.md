@@ -10,3 +10,13 @@ title: Welcome to my Blog!
 
 From the start of college, I knew that I wanted to get involved with environmental policy. What excites me about that industry is that the environmental world is so **new**. Think of environmental policy as the wild west of the modern age, but instead of coyboys and banditos, we have lobbyists and auditors. 
 
+While at CNU, I have been working as the co-president of [Roots & Shoots](https://cnu.campuslabs.com/engage/organization/rootsandshoots), an environmental organization based on volunteerism and stewardship. Roots & Shoots has exponentially enriched my life, as I have been able to work with local government, local businesses, and school districts. 
+
+A couple of Roots & Shoots projects includes:
+* Building a [Bee-Byway](http://www.beebyway.com) for the Hampton Roads Peninsula
+* Cleaning Newport News trails, such as the [Noland Trail](https://www.marinersmuseum.org/park-and-trail/)
+* Building a [Riparian Buffer](https://www.extension.iastate.edu/smallfarms/what-riparian-buffer) for Causey's Mill Park 
+* Host professional panels with Newport News officials, Christopher Newport University faculty, and environmental experts
+
+Also, Roots & Shoots has something to offer for every major. For me, personally, I am a Political Science major, but I still have found ways to connect the organization to my major's academic interests. For anyone else interested in Roots & Shoots, you can always e-mail at rootsandshoots@cnu.edu
+
