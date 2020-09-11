@@ -29,4 +29,10 @@ Other than Roots & Shoots, I have been involved in the following organizations:
 * The Student Sustainability Commission - A branch of Student Assembly that focuses on sustainability efforts
 * CNU's Doctors without Borders - Focuses on providing aid to local refugees in the Hampton Roads region of VA
 
-In my personal life, I am a very devoted older brother. 
+In my personal life, I am a devoted older brother to my four younger siblings. 
+
+![Siblings](https://nicpol16.github.io/Nic-Pol/images/siblings.JPG)
+
+My sister sitting next to me, Grace, also has high-functioning Autism. Watching Grace grow up has been a very bittersweet experience for me. While I am happy to see her develop her own unique personality, I have often been saddened by the stigma that still surrounds Autism. My sister does not move through life like most children do, and because of that her classmates have often classified her as "strange" or "wierd." When I am home, I spend most of my freetime volunteering at her school to help her feel comfortable in her school's environment, as well as help her communicate to her classmates during lunch and recess. 
+
+To learn more about Autism, and how to break the stigma, feel free to [visit this link!](https://www.autismspeaks.org)
