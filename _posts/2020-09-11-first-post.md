@@ -3,6 +3,8 @@ layout: post
 title: Welcome to my Blog!
 ---
 
-This is my **first post**.
+* An Introduction 
+** Hello, My name is Nicolas Pol...
+
 
 [Here's a website I like](http://seriouseats.com)
