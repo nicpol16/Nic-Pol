@@ -2,6 +2,7 @@
 layout: post
 title: Welcome to my Blog!
 ---
+Nic
 
 # An Introduction 
 ## Hello, My name is Nic...
