@@ -22,7 +22,7 @@ Butler University
 
 The elusive colony of Roanoke has fascinated scholars, historians, and American culture for centuries. While theories of Roanoke's demise are abundant, most are nothing but conspiracy. Through the lens of historical research, this project aims to analyze the timeline and physical evidence of the missing colony to create a compelling conclusion to the centuries' long mystery. Furthermore, the project also interprets the history of America's obsession with the lost colony. 
 
-![Snapshot of the homepage for The Lost Colony of Roanoke](https://nicpol16.github.io/Nic-Pol/images/Site Layout.png)
+![Snapshot of the homepage for The Lost Colony of Roanoke](https://nicpol16.github.io/Nic-Pol/images/SiteLayout.png)
 
 ## Project Review
 
