@@ -11,7 +11,7 @@ The Lost Colony of Roanoke
 Raegan Markland, Madeline Neely, Kaitlyn Rines, and Kaylin Todor
 
 ### Project URL
-![roanokeconspiracy](https://roanokeconspiracy.weebly.com)
+[roanokeconspiracy.com](https://roanokeconspiracy.weebly.com)
 
 ### Project Institution
 Butler University
