@@ -55,7 +55,7 @@ At the opening page for the evidence tab, the website presents three distinct se
 
 While there is not a lot of evidence listed in this section, it is understandable as the colony left behind practically no trace of its existence. 
 
-![Picture of the counterfeit stones](https://nicpol16.github.io/Nic-Pol/images/stones)
+![Picture of the counterfeit stones](https://nicpol16.github.io/Nic-Pol/images/stones.png)
 
 For the few pieces of the evidence that does exist, however, they are displayed in a clear format. The evidence section also includes interesting anecdotes. For example, when the Dare Stones were found, only one of them was actually considered authentic. However, the stone was found during the Great Depression, and archaeologists were sending out reward money to locals of Cape Hatteras to find more stones related to Roanoke. As a result, 48 additional stones were brought in, with all of them being counterfeit. 
 
