@@ -26,4 +26,14 @@ The most important part of grant-writing is centering a project around a topic t
 I wanted to go for a historical-based topic, and specifically I wanted to focus on tragic parts of history that could tie into climate change. 
 I decided to write a grant proposal on the eruption of Thera, a volcano that erupted in the 16th century B.C.E.
 
-For the uninitiated, 
+For the uninitiated, the Thera volcano erupted in the middle of the Bronze Age. Several cultures were impacted from the volcano which were:
+* The Minoans
+* The Mycenaeans (Ancient Greeks)
+* The Hyksos
+* The Nubians
+* Ancient Egypt
+* The Hittite Empire
+
+### Testing the Topic
+
+In order to make sure that I can make a project on the eruption of Thera, I needed to first complete an environmental scan of the Digital Humanities 
