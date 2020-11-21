@@ -36,6 +36,9 @@ For the uninitiated, the Thera volcano erupted in the middle of the Bronze Age. 
 
 With the topic, I would want to make a political map that illustrated how the volcanic eruption affected nations' borders. Two seperate maps would be made, showing the before and after of the Bronze Age World. 
 
+![An image depicting the destruction of Thera from a Minoan Fresco found on the island of Modern Santorini, Greece](https://nicpol16.github.io/Nic-Pol/images/minoan.png)
+(Image is obtained from the Santorini Cultural Museum)
+
 ### Compiling the Research
 
 I had been aware of the eruption of Thera for a while now, as this is one of the most fascinating eras of history for me. Because of this, I actually have a lot of personal research that I've built up in my own free time. I've collected sources on how different cultures recorded the event of the Thera eruption, as well as collected sources on what the cultures themselves were like. 
