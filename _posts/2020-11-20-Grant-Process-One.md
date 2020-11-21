@@ -24,7 +24,7 @@ While our future seems scary, humanity has gone through similar disasters, albie
 The most important part of grant-writing is centering a project around a topic that you feel passionate about. In our Digital Humanities class, Dr. Stover presented a list of types of grants that the National Endowement for the Humanities. This list guided me on what I should choose. 
 
 I wanted to go for a historical-based topic, and specifically I wanted to focus on tragic parts of history that could tie into climate change. 
-I decided to write a grant proposal on the eruption of Thera, a volcano that erupted in the 16th century B.C.E.
+I decided to write a grant proposal on the eruption of Thera, a volcano that erupted in the 16th century B.C.E. The volcano created tsunamis, earthquakes, acid rain, and a perpetual winter that lasted for nearly three years. 
 
 For the uninitiated, the Thera volcano erupted in the middle of the Bronze Age. Several cultures were impacted from the volcano which were:
 * The Minoans
@@ -34,6 +34,14 @@ For the uninitiated, the Thera volcano erupted in the middle of the Bronze Age. 
 * Ancient Egypt
 * The Hittite Empire
 
+With the topic, I would want to make a political map that illustrated how the volcanic eruption affected nations' borders. Two seperate maps would be made, showing the before and after of the Bronze Age World. 
+
+### Compiling the Research
+
+I had been aware of the eruption of Thera for a while now, as this is one of the most fascinating eras of history for me. Because of this, I actually have a lot of personal research that I've built up in my own free time. I've collected sources on how different cultures recorded the event of the Thera eruption, as well as collected sources on what the cultures themselves were like. 
+
+When looking at the Bronze Age, I think it is important to understand the difference between countries, such as the Hittites and the Hyksos, as their capabilities and accomplishments greatly influenced how they were able to respond to the Thera eruption. 
+
 ### Testing the Topic
 
-In order to make sure that I can make a project on the eruption of Thera, I needed to first complete an environmental scan of the Digital Humanities 
+In order to make sure that I can make a project on the eruption of Thera, I needed to first complete an environmental scan within the Digital Humanities 
