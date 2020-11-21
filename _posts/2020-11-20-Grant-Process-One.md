@@ -50,6 +50,8 @@ I also had to research more on the eruption itself. I was surprised by the fact 
 
 The only thing that is difficult for me to research are cultural achievements that occured during the eruption. Because Thera occured 3,500 years ago, most dates regarding wars, transitions of power, and other events have a lot of grey area. From what I have witnessed from other scholars, dates seem to be more of a guidance rather than a specific reference point. When compiling my grant into a physical project, I would need to keep my audience aware that the dates of events, such as the Egyptian expulsion of the Hyksos, are still being contested by archeaologists. 
 
+Our Digital Humanities class also offered useful resources for research. Dr. Stover attached a reading on *search strategies* and also a module on using the library resources from CNU. 
+
 ### Testing the Topic
 
 In order to make sure that I can make a project on the eruption of Thera, I needed to first complete an environmental scan within the Digital Humanities. The purpose of this was to make sure that no other project had already done what the grant was proposing to do. I wrote my environmental scan on a google doc. Fortunately, the Thera eruption is such an obscure part of history that there are not any projects similar to the one I am attempting to do. 
@@ -57,3 +59,9 @@ In order to make sure that I can make a project on the eruption of Thera, I need
 What was helpful about our Digital Humanities class was that we got to do peer reviews on our scans to make sure that we had conducted proper research. Attached below is an image of a peer review of my environmental scan.
 
 ![An image of my google doc of my environmental scan with peer review comments](https://nicpol16.github.io/Nic-Pol/images/scan.png)
+
+### Plans for the Future
+
+Currently, I am still working on the grant narrative and sample budget. The grant narrative is important, as it explains the importance of the grant. The sample budget is also important, as it justifies the funds needed from the grant. I am also planning on creating a proper mock-up of the political maps through Photoshop. I have two rough drafts (made on my phone) which are attached below:
+
+
