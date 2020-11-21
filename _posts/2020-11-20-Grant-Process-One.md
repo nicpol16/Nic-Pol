@@ -64,4 +64,12 @@ What was helpful about our Digital Humanities class was that we got to do peer r
 
 Currently, I am still working on the grant narrative and sample budget. The grant narrative is important, as it explains the importance of the grant. The sample budget is also important, as it justifies the funds needed from the grant. I am also planning on creating a proper mock-up of the political maps through Photoshop. I have two rough drafts (made on my phone) which are attached below:
 
+![An image of my mock-up before the Thera Eruption](https://nicpol16.github.io/Nic-Pol/images/before.png)
 
+![An image of my mock-up after the Thera Eruption](https://nicpol16.github.io/Nic-Pol/images/after.png)
+
+Of course, the Photoshop renditions will be much more sophisticated and detailed than the mock-ups that I drafted on my phone. 
+
+Also, I would want the project to live on a website-building platform, specifically WordPress. I understand that there is a fee associated with having a customized URL on WordPress. I would include that fee on my sample budget. 
+
+Looking into the future, I am most nervous about having a proper sample budget. Other than the Wordpress domain fee, I am still struggling to find other reasons to request for grant funds. Hopefully in the future, I will be able to overcome this obstacle and create a diversified budget plan. 
