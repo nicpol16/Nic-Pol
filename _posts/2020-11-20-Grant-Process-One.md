@@ -38,7 +38,7 @@ With the topic, I would want to make a political map that illustrated how the vo
 
 ![An image depicting the destruction of Thera from a Minoan Fresco found on the island of Modern Santorini, Greece](https://nicpol16.github.io/Nic-Pol/images/minoan.png)
 
-(Image is obtained from the Santorini Cultural Museum)
+(Image is obtained from the Santorini Cultural Museum, and shows a Minoan fresco that depicts the eruption of Thera)
 
 ### Compiling the Research
 
@@ -46,6 +46,14 @@ I had been aware of the eruption of Thera for a while now, as this is one of the
 
 When looking at the Bronze Age, I think it is important to understand the difference between countries, such as the Hittites and the Hyksos, as their capabilities and accomplishments greatly influenced how they were able to respond to the Thera eruption. 
 
+I also had to research more on the eruption itself. I was surprised by the fact that the Greek eruption had physical evidence all the way in California. Thera's explosion was sincerely a global phenomenon, and the scientific evidence makes the entire event much scarier than what was previously understood by me. 
+
+The only thing that is difficult for me to research are cultural achievements that occured during the eruption. Because Thera occured 3,500 years ago, most dates regarding wars, transitions of power, and other events have a lot of grey area. From what I have witnessed from other scholars, dates seem to be more of a guidance rather than a specific reference point. When compiling my grant into a physical project, I would need to keep my audience aware that the dates of events, such as the Egyptian expulsion of the Hyksos, are still being contested by archeaologists. 
+
 ### Testing the Topic
 
-In order to make sure that I can make a project on the eruption of Thera, I needed to first complete an environmental scan within the Digital Humanities 
+In order to make sure that I can make a project on the eruption of Thera, I needed to first complete an environmental scan within the Digital Humanities. The purpose of this was to make sure that no other project had already done what the grant was proposing to do. I wrote my environmental scan on a google doc. Fortunately, the Thera eruption is such an obscure part of history that there are not any projects similar to the one I am attempting to do. 
+
+What was helpful about our Digital Humanities class was that we got to do peer reviews on our scans to make sure that we had conducted proper research. Attached below is an image of a peer review of my environmental scan.
+
+![An image of my google doc of my environmental scan with peer review comments](https://nicpol16.github.io/Nic-Pol/images/scan.png)
