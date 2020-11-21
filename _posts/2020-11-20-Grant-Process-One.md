@@ -66,7 +66,7 @@ Currently, I am still working on the grant narrative and sample budget. The gran
 
 ![An image of my mock-up before the Thera Eruption](https://nicpol16.github.io/Nic-Pol/images/before.png)
 
-![An image of my mock-up after the Thera Eruption](https://nicpol16.github.io/Nic-Pol/images/after.png)
+![An image of my mock-up after the Thera Eruption](https://nicpol16.github.io/Nic-Pol/images/after.png) 
 
 Of course, the Photoshop renditions will be much more sophisticated and detailed than the mock-ups that I drafted on my phone. 
 
