@@ -7,7 +7,7 @@ Nic
 ### Grant Proposal Process
 
 ![Volcano on the Coast of Greece, with lava flowing into the ocean](https://nicpol16.github.io/Nic-Pol/images/lava.jpg)
-Property of Newsweek Corporation
+####### Property of Newsweek Corporation
 
 Living in the midst of a pandemic, most of us have felt the economic, emotional, and societal breakdown of the past year. Truly, it is a moment in time that will be remembered for decades to come. The death toll in the United States, which surpassed 200,000 in September of 2020, is a horrifying statistic. 
 
