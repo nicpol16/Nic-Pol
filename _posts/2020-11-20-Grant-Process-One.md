@@ -64,8 +64,10 @@ What was helpful about our Digital Humanities class was that we got to do peer r
 
 Currently, I am still working on the grant narrative and sample budget. The grant narrative is important, as it explains the importance of the grant. The sample budget is also important, as it justifies the funds needed from the grant. I am also planning on creating a proper mock-up of the political maps through Photoshop. I have two rough drafts (made on my phone) which are attached below:
 
+## Before the Thera Eruption
 ![An image of my mock-up before the Thera Eruption](https://nicpol16.github.io/Nic-Pol/images/before.png)
 
+## After the Thera Eruption
 ![An image of my mock-up after the Thera Eruption](https://nicpol16.github.io/Nic-Pol/images/after.png) 
 
 Of course, the Photoshop renditions will be much more sophisticated and detailed than the mock-ups that I drafted on my phone. 
