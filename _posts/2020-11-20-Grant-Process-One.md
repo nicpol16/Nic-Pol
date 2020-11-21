@@ -75,3 +75,5 @@ Of course, the Photoshop renditions will be much more sophisticated and detailed
 Also, I would want the project to live on a website-building platform, specifically WordPress. I understand that there is a fee associated with having a customized URL on WordPress. I would include that fee on my sample budget. 
 
 Looking into the future, I am most nervous about having a proper sample budget. Other than the Wordpress domain fee, I am still struggling to find other reasons to request for grant funds. Hopefully in the future, I will be able to overcome this obstacle and create a diversified budget plan. 
+
+I also worry that my connection between climate change and the Thera Eruption will not be clear to an audience. Constant revisions of the project is required in order to avoid that issue. In my grant narrative, I mostly want to focus on Thera's connection to climate change, as it gives relevance to the modern era. 
