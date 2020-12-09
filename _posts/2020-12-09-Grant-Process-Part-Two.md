@@ -28,3 +28,6 @@ Nic
 **Resume**
 * Generates ethos for the grant presenter (That's me!)
 * Provides the grant reviewers a background on the presenter
+
+## Peer Review
+Most of the remainder of the semester has been spent doing peer reviews with classmates. These peer reviews are always helpful, as they allow for a fresh pair of eyes to catch for thematic and grammatical errors. 
