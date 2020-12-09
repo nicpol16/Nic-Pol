@@ -4,7 +4,7 @@ title: Grant Process Two
 ---
 Nic
 
-![The Destruction of Pompeii in a Neoclassical Painting](https://nicpol16.github.io/Nic-Pol/images/Pompeii)
+![The Destruction of Pompeii in a Neoclassical Painting](https://nicpol16.github.io/Nic-Pol/images/Pompeii.jpg)
 ## Continuation of Grant Proposal Process
 
 ### As the semester moves to a close, I have been successful in completing the documentation needed to submit a grant proposal. As a review, I have completed each of the following:
