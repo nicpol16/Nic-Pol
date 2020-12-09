@@ -27,3 +27,4 @@ Nic
 
 **Resume**
 * Generates ethos for the grant presenter (That's me!)
+* Provides the grant reviewers a background on the presenter
