@@ -5,7 +5,7 @@ title: Grant Process Two
 Nic
 
 ![The Destruction of Pompeii in a Neoclassical Painting](https://nicpol16.github.io/Nic-Pol/images/Pompeii.jpg)
-(The Destruction of Pompeii and Herculanieum by John Martin, 1822. Courtesy of the Courtauld Institute of Art.)
+(*The Destruction of Pompeii and Herculanieum* by John Martin, 1822. Courtesy of the Courtauld Institute of Art.)
 ## Continuation of Grant Proposal Process
 
 ### As the semester moves to a close, I have been successful in completing the documentation needed to submit a grant proposal. As a review, I have completed each of the following:
