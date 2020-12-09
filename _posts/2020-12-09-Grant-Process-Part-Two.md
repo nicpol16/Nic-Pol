@@ -4,4 +4,4 @@ title: Grant Process Two
 ---
 Nic
 
-###Continuation of Grant Proposal Process
+### Continuation of Grant Proposal Process
