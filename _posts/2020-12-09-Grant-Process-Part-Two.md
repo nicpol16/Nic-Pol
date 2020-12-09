@@ -6,7 +6,12 @@ Nic
 
 ### Continuation of Grant Proposal Process
 
-Items that I have completed so far:
-* #Grant Narrative
-      
-     This document was made to summarize the grant project. The document also served to explain the importance of the content researched. 
+As the semester moves to a close, I have been successful in completing the documentation needed to submit a grant proposal. As a review, I have completed each of the following:
+
+**Grant Narrative**
+* Summarizes the goals and objectives of the proposed grant
+* Explains how proposed grant is tied into current events
+* Generates interest in project for grant reviewers
+
+**Environmental Scan**
+* 
