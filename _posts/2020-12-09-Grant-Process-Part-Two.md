@@ -38,7 +38,7 @@ For every document that I have made, I have recieved a peer review. Depending on
 
 These reviews happen on google docs, which I prefer because it allows the reviewer to mark up my document. 
 
-The image below depicts a helpful peer review.
+The image below depicts a helpful peer review for my Grant Narrative.
 
 ![An example of an in-depth peer review.](https://nicpol16.github.io/Nic-Pol/images/ian.png)
 
