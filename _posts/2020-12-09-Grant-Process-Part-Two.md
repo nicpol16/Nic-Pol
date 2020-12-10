@@ -51,7 +51,7 @@ The image below depicts a helpful peer review for my Grant Narrative.
 
 ![An example of an in-depth peer review.](https://nicpol16.github.io/Nic-Pol/images/ian.png)
 
-Even more helpful are peer reviews in which the reviewer/peer points out places in the document where I should re-focus on the importance of my project. An example of this type of peer review on my Grant Narrative is attached below:
+Even more helpful are peer reviews in which the reviewer/peer points out places in the document where I should re-focus on the importance of my project. An example of this type of peer review on my Environmental Scan is attached below:
 
 ![An example of a peer review that focuses on thematic elements.](https://nicpol16.github.io/Nic-Pol/images/chambers.png)
 
