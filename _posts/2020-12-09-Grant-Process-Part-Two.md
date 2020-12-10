@@ -33,3 +33,6 @@ Nic
 
 ## Peer Review
 Most of the remainder of the semester has been spent doing peer reviews with classmates. These peer reviews are always helpful, as they allow for a fresh pair of eyes to catch for thematic and grammatical errors. 
+
+For every document that I have made, I have recieved a peer review. Depending on the peer, suggestions and critiques can be extremely helpful. My favorite peer reviews are when I recieve comments on how to improve my syntax. The image below depicts a helpful peer review.
+
