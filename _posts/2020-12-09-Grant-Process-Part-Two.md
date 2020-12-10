@@ -32,7 +32,7 @@ Nic
 * Provides the grant reviewers a background on the presenter
 
 ## Setbacks and Triumphs
-Writing the documents for this grant proposal has *had* its ups and downs. I have found that when I write these documents, I tend to write a lot about the research involved. For example, my environmental scan is almost only about research. There is only a tiny sentence at the end that tells the reader that my grant project is important. 
+Writing the documents for this grant proposal has *had* its ups and downs. I have found that when I write these documents, I tend to write a lot about the research involved and nearly nothing about my project's purpose and importance. For example, my environmental scan is almost only about research. There is only a tiny sentence at the end that tells the reader that my grant project is important. 
 
 I think that the reason for why I undermine my project's importance in these documents is because of the fact that I am not used to "hyping" up myself or my work. Of course, I am very passionate about my project. Yet, writing about how amazing my project is or how innovative the project will be for the Digital Humanities world is uncomfortable for me to write. 
 
