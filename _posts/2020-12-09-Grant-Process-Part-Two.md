@@ -42,3 +42,12 @@ The image below depicts a helpful peer review for my Grant Narrative.
 
 ![An example of an in-depth peer review.](https://nicpol16.github.io/Nic-Pol/images/ian.png)
 
+## Future Plans of the Grant Process
+The only step left for this project is just to revise my documents. This has been such an enjoyable experience, as I have been able to write about my favorite era in history. Not only did I get to explore the world of Thera further, but I also had the ability to tie the historical event to my academic interests. 
+
+It saddens me that all of this effort will not matriculate into a finalized project. The purpose of this grant proposal was to learn how to structure and format documents in the Digital Humanities industry. It was never an actual goal, for myself or for the class, to submit this grant for review. 
+
+That said, if I were not a senior I would have seriously considered looking into the grant submission process for CNU. I do believe that the project that I have created is something unique, as well as something that has not yet been done in academia before. 
+
+
+
